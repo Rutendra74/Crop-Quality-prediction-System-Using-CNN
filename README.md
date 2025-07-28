@@ -25,5 +25,5 @@ This project is a deep learning-based solution to automatically predict the **qu
 
 ---
 
-## 📁 Project Structure
+
 
